@@ -1,0 +1,7 @@
+{
+  "realm" : "test",
+  "auth-server-url" : "http://auth.example.com/auth",
+  "ssl-required" : "none",
+  "resource" : "test",
+  "public-client" : true
+}
